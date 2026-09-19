@@ -9,10 +9,10 @@ import { Project, SkillItem, PricingPlan, ProcessStep, WhyMeItem } from '../type
  */
 
 // 1. BRAND LOGO (Shown in Navbar, Footer, and Favicon) - https://ibb.co/7ttNKVbS
-export const BRAND_LOGO_IMAGE = "https://i.ibb.co/GQQ3RkFd/Logo.png";
+export const BRAND_LOGO_IMAGE = "/Logo.png";
 
 // 2. PROFILE PICTURE (Shown in About Me section and all profile badges) - https://ibb.co/7ttNKVbS
-export const CREATOR_PROFILE_PICTURE = "https://i.ibb.co/GQQ3RkFd/Logo.png";
+export const CREATOR_PROFILE_PICTURE = "/Logo.png";
 
 // Backwards compatibility alias
 export const CREATOR_AVATAR = CREATOR_PROFILE_PICTURE;
