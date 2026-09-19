@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap configuration for search engines
+Sitemap: https://keshavcreates.vercel.app/sitemap.xml

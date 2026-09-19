@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://keshavcreates.vercel.app/</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://i.ibb.co/GQQ3RkFd/Logo.png</image:loc>
+      <image:title>Keshav Creates — YouTube Thumbnail Designer and Graphic Designer</image:title>
+      <image:caption>Keshav Creates is Keshav's creative portfolio for high-CTR YouTube thumbnails, graphic design, creator branding, and hook-driven scripts.</image:caption>
+    </image:image>
+  </url>
+</urlset>
